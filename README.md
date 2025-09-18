@@ -4,9 +4,12 @@
 **requirments**
 -python3
 -visual studio
+
 **Usage example**
 -to start the game press the play button on video studio and the insructions will pop up and tell you your pet rocks happiness and hunger and the choice to play or feed it.
+
 **contributing**
 -others can edit or improve my code or they could leave a review.
+
 **License**
 -This project is licensed under the MIT License 
